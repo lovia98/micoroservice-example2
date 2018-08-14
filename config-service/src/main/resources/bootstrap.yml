@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri: file://${user.home}/config
+          uri: file://${user.home}/practice/eureka-example/config
 
