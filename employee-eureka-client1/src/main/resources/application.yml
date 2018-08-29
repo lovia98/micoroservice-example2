@@ -1,9 +1,8 @@
+server:
+  port: 8081
 spring:
   application:
-    name: department-service
-  cloud:
-    config:
-      uri: http://localhost:8888
+    name: employee-service
 management:
   endpoints:
     web:
